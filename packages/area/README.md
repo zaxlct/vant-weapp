@@ -45,7 +45,7 @@
 
 | 参数 | 说明 | 类型 | 默认值 |
 | --- | --- | --- | --- |
-| value | 当前选中的省市区`code` | *string* | - |
+| value | 当前选中的省市区`code` | *array* | - |
 | title | 顶部栏标题 | *string* | - |
 | area-list | 省市区数据，格式见下方 | *object* | - |
 | columns-num | 省市区显示列数，3-省市区，2-省市，1-省 | *string \| number* | `3` |
